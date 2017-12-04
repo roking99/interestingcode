@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  * Title: 这段代码是展示当前java虚拟机栈中所有的线程相关信息 可以做一个页面，在查问题的时候 访问该页面即可
- *  不再需要很麻烦的去  jstack </br>
+ *  不再需要很麻烦的去 jstack </br>
  * <p/>
  * Description: </br>
  * <p/>
